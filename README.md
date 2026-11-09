@@ -21,7 +21,7 @@ Both commands should print a version number. If `javac` is "not found", you only
    git clone <URL OF THIS REPOSITORY>
    ```
 2. **Read the Problem** – Each problem has its own folder, for example `Unit_01/Chapter_01/Q_01_01_01/`. Open the `XX-XX-XX.md` file inside it. (In VS Code, `Ctrl+Shift+V` / `Cmd+Shift+V` shows it nicely formatted.)
-3. **Write Your Code** – Open the `Main.java` in the same folder and replace the `TODO` comment with your solution. Three rules:
+3. **Write Your Code** – Open the `Main.java` in the same folder and implement your solution. Three rules:
    - The class must be called `Main`.
    - Leave the first line (`package ...;`) exactly as it is. It matches the folder name, and it is what lets VS Code run the right problem.
    - Read input with `Scanner(System.in)` and print with `System.out`.
