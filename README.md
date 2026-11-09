@@ -7,8 +7,8 @@ Practice problems with automatic input/output testing. You write a program calle
 You need a **JDK** (Java Development Kit), version 11 or newer. Check by running this in a terminal:
 
 ```sh
+# platform agnostic
 java -version
-javac -version
 ```
 
 Both commands should print a version number. If `javac` is "not found", you only have the runtime and need to install a JDK.
