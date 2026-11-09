@@ -1,0 +1,13 @@
+# Compiled Java
+*.class
+out/
+bin/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.classpath
+.project
+.settings/
