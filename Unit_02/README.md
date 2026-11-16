@@ -21,3 +21,6 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 | --------------------------------------------- | ------------------ |
 | [02-03-01](Chapter_03/Q_02_03_01/02-03-01.md) | Lowest and Highest |
 | [02-03-02](Chapter_03/Q_02_03_02/02-03-02.md) | Wheel of Fortune   |
+| [02-03-03](Chapter_03/Q_02_03_03/02-03-03.md) | Meow Meow          |
+| [02-03-04](Chapter_03/Q_02_03_04/02-03-04.md) | Luna's Leaps       |
+| [02-03-05](Chapter_03/Q_02_03_05/02-03-05.md) | Blast Off!         |
