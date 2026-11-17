@@ -2,7 +2,7 @@
 
 Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 
-## Chapter 2
+## Chapter 2 - Conditionals - if, else if, else
 
 | Problem                                       | Title                      |
 | --------------------------------------------- | -------------------------- |
@@ -15,12 +15,13 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 | [02-02-07](Chapter_02/Q_02_02_07/02-02-07.md) | Leap Year                  |
 | [02-02-08](Chapter_02/Q_02_02_08/02-02-08.md) | Valid Triangles            |
 
-## Chapter 3
+## Chapter 3 - For Loops
 
-| Problem                                       | Title              |
-| --------------------------------------------- | ------------------ |
-| [02-03-01](Chapter_03/Q_02_03_01/02-03-01.md) | Lowest and Highest |
-| [02-03-02](Chapter_03/Q_02_03_02/02-03-02.md) | Wheel of Fortune   |
-| [02-03-03](Chapter_03/Q_02_03_03/02-03-03.md) | Meow Meow          |
-| [02-03-04](Chapter_03/Q_02_03_04/02-03-04.md) | Luna's Leaps       |
-| [02-03-05](Chapter_03/Q_02_03_05/02-03-05.md) | Blast Off!         |
+| Problem                                       | Title                       |
+| --------------------------------------------- | --------------------------- |
+| [02-03-01](Chapter_03/Q_02_03_01/02-03-01.md) | Lowest and Highest          |
+| [02-03-02](Chapter_03/Q_02_03_02/02-03-02.md) | Wheel of Fortune            |
+| [02-03-03](Chapter_03/Q_02_03_03/02-03-03.md) | Meow Meow                   |
+| [02-03-04](Chapter_03/Q_02_03_04/02-03-04.md) | Luna's Leaps                |
+| [02-03-05](Chapter_03/Q_02_03_05/02-03-05.md) | Blast Off!                  |
+| [02-03-06](Chapter_03/Q_02_03_06/02-03-06.md) | First and Third Occurrences |
