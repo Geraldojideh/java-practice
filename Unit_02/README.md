@@ -2,7 +2,7 @@
 
 Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 
-## Chapter 2 - Conditionals - if, else if, else
+## Chapter 2 - Conditionals
 
 | Problem                                       | Title                      |
 | --------------------------------------------- | -------------------------- |
@@ -25,3 +25,14 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 | [02-03-04](Chapter_03/Q_02_03_04/02-03-04.md) | Luna's Leaps                |
 | [02-03-05](Chapter_03/Q_02_03_05/02-03-05.md) | Blast Off!                  |
 | [02-03-06](Chapter_03/Q_02_03_06/02-03-06.md) | First and Third Occurrences |
+
+
+
+## Chapter 4 - While Loops
+
+| Problem                                       | Title                       |
+| --------------------------------------------- | --------------------------- |
+| [02-04-01](Chapter_04/Q_02_04_01/02-04-01.md) | A Girl Has No Name          |
+| [02-04-02](Chapter_04/Q_02_04_02/02-04-02.md) | One Hundred and Eighty!            |
+| [02-04-03](Chapter_04/Q_02_04_03/02-04-03.md) | Hit the Bullseye                   |
+
